@@ -1,2 +1,7 @@
-env
+env/*
 __pycache__
+frames
+egohands_data
+eyth_dataset
+*.jpg
+.DS_Store
