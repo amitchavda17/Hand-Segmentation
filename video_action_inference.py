@@ -53,7 +53,7 @@ def main(args):
 
     # Open the video file
     video = cv2.VideoCapture(args.input_path)
-    out_file_name = 'out_'+args.input_path.split('/')[-1]
+    out_file_name = 'out_action_'+args.input_path.split('/')[-1]
     
     # Get video properties
     width = int(video.get(cv2.CAP_PROP_FRAME_WIDTH))
