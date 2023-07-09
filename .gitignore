@@ -5,3 +5,4 @@ egohands_data
 eyth_dataset
 *.jpg
 .DS_Store
+weights_archive
