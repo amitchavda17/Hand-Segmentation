@@ -6,3 +6,4 @@ eyth_dataset
 *.jpg
 .DS_Store
 weights_archive
+*.zip
